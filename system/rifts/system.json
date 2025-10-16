@@ -1,0 +1,36 @@
+{
+  "id": "rifts",
+  "title": "Rifts (Palladium) \u2013 Base System (Tabbed Sheet)",
+  "version": "0.1.2",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "You"
+    }
+  ],
+  "url": "https://example.com",
+  "license": "SEE README (No PI content)",
+  "esmodules": [
+    "dist/rifts.js"
+  ],
+  "styles": [
+    "styles/rifts.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "system": {
+    "templates": [
+      "template.json"
+    ]
+  },
+  "manifestPlusVersion": "1.2.0"
+}

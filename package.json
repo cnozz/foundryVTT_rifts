@@ -1,0 +1,15 @@
+{
+  "name": "rifts-foundry-system",
+  "version": "0.1.2",
+  "private": true,
+  "type": "module",
+  "description": "FoundryVTT system scaffold for Palladium Rifts with tabbed, editable actor sheet.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "pack": "node scripts/pack.mjs",
+    "dev": "node scripts/build.mjs --watch"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
