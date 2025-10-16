@@ -1,0 +1,1 @@
+See dist/rifts.js and templates/actor-sheet.hbs for automation changes.
