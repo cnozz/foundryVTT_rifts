@@ -8,7 +8,7 @@
   },
   "authors": [
     {
-      "name": "You"
+      "name": "cnozz"
     }
   ],
   "url": "https://example.com",
@@ -61,6 +61,20 @@
     "path": "packs/abilities.db",
     "type": "Item",
     "system": "rifts"
+  },
+  {
+  "label": "Rifts OCC",
+  "name": "occ",
+  "path": "packs/occ.db",
+  "type": "Item",
+  "system": "rifts"
+  },
+  {
+  "label": "Rifts RCC",
+  "name": "rcc",
+  "path": "packs/rcc.db",
+  "type": "Item",
+  "system": "rifts"
   }
 ],
 "languages": [
