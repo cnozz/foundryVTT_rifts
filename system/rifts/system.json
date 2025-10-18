@@ -8,7 +8,7 @@
   },
   "authors": [
     {
-      "name": "You"
+      "name": "cnozz"
     }
   ],
   "url": "https://example.com",
@@ -19,14 +19,71 @@
   "styles": [
     "styles/rifts.css"
   ],
-  "packs": [],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
+ "packs": [
+  {
+    "label": "Rifts Skills",
+    "name": "skills",
+    "path": "packs/skills.db",
+    "type": "Item",
+    "system": "rifts"
+  },
+  {
+    "label": "Rifts Spells",
+    "name": "spells",
+    "path": "packs/spells.db",
+    "type": "Item",
+    "system": "rifts"
+  },
+  {
+    "label": "Rifts Items",
+    "name": "items",
+    "path": "packs/items.db",
+    "type": "Item",
+    "system": "rifts"
+  },
+  {
+    "label": "Rifts Psionics",
+    "name": "psionics",
+    "path": "packs/psionics.db",
+    "type": "Item",
+    "system": "rifts"
+  },
+  {
+    "label": "Rifts Super Powers",
+    "name": "superpowers",
+    "path": "packs/superpowers.db",
+    "type": "Item",
+    "system": "rifts"
+  },
+  {
+    "label": "Rifts Abilities",
+    "name": "abilities",
+    "path": "packs/abilities.db",
+    "type": "Item",
+    "system": "rifts"
+  },
+  {
+  "label": "Rifts OCC",
+  "name": "occ",
+  "path": "packs/occ.db",
+  "type": "Item",
+  "system": "rifts"
+  },
+  {
+  "label": "Rifts RCC",
+  "name": "rcc",
+  "path": "packs/rcc.db",
+  "type": "Item",
+  "system": "rifts"
+  }
+],
+"languages": [
+  {
+    "lang": "en",
+    "name": "English",
+    "path": "lang/en.json"
+  }
+],
   "system": {
     "templates": [
       "template.json"

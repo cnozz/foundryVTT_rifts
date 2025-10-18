@@ -1,6 +1,6 @@
 # Rifts FoundryVTT System (Starter Repo)
 
-A plug-and-play FoundryVTT system scaffold for Palladium **Rifts** with a tabbed, editable actor sheet.
+A plug-and-play FoundryVTT system scaffold for Palladium **Rifts** with editable actor sheet.
 
 > **Note**: This repo contains *no* Palladium IP/game text. It’s just scaffolding and UI.
 
